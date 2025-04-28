@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="debug_screen_title">Debug Tools</string>
+    <string name="debug_screen_only_in_debug">This screen is only available in debug builds</string>
+    <string name="debug_action_1">Debug Action 1</string>
+    <string name="debug_action_2">Debug Action 2</string>
+</resources>
